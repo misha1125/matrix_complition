@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -fsanitize=address -fno-omit-frame-pointer -fsanitize-recover -llapack -lblas -g   CMakeFiles/complition.dir/main.cpp.o  -o complition 
